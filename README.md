@@ -183,7 +183,3 @@ Adicione o .gitignore e habilite Git LFS.
 git add . → git commit -m "Initial Unity project" → git push.
 
 Substitua as artes por CC0/autorais e crie LICENSE + CREDITS.md.
-
-Cole o README.md acima na raiz do repo.
-
-Quer que eu já te entregue um CREDITS.md padrão + LICENSE (MIT) e uma seção de screenshots apontando para as imagens certas? Também posso sugerir packs CC0 que combinam com estética “retro/platformer”.
